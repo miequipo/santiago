@@ -2,7 +2,11 @@ body{
 	background :red;
 }
 
+
+
 p
 {
-	color: blue;	
+	color: blue;
+	font-size: 15px;
+	font-family: arial;	
 }
