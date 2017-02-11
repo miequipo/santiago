@@ -1,0 +1,35 @@
+commit 725b995c5fe72f8341c06012166d3e278d9cfab3
+Author: rissandimo <nassiromid@gmail.com>
+Date:   Thu Feb 9 22:18:36 2017 -0800
+
+    made an ordered list
+
+commit 29e5b8d2b4d0dbcbb167c26fc036c3dd949ba4e6
+Author: Santiago <santiago5020g@hotmail.com>
+Date:   Fri Feb 10 01:13:47 2017 -0500
+
+    2 change of index
+
+commit 12ffd3fc36ae0bcb30d3e9e5eca84aeb722dc13f
+Author: rissandimo <nassiromid@gmail.com>
+Date:   Thu Feb 9 22:07:59 2017 -0800
+
+    added a line to the file
+
+commit 14bb6bbe189a51c6527d2aae696dd72b3c835877
+Author: Santiago <santiago5020g@hotmail.com>
+Date:   Fri Feb 10 00:32:36 2017 -0500
+
+    Added a new section within index.html
+
+commit 6e8491c5bf4e71f45d03e992a732ff8c25dc2f24
+Author: Omid Nassir <rissandimo@users.noreply.github.com>
+Date:   Mon Feb 6 21:09:17 2017 -0800
+
+    added index and css stylesheet to github
+
+commit 925ccabe9dde9ea14e3c62a0217f9e2738ddb894
+Author: Omid Nassir <rissandimo@users.noreply.github.com>
+Date:   Mon Feb 6 21:00:55 2017 -0800
+
+    Initial commit
